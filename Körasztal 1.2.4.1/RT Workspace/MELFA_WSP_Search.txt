@@ -1,0 +1,11 @@
+2019:11:15 14:23:14	:Find"PDestination"
+	:Program	:509.prg(Command:218)	:509_Robot	:PC	:PDestination = P_Fbc(1) + PEscape' új
+	:Program	:509.prg(Command:219)	:509_Robot	:PC	:Mvs PDestination' új
+	:Program	:509.prg(Position:PDestination)	:509_Robot	:PC	:PDestination=(371.220,-67.940,535.880,98.580,82.020,63.580,0.000,0.000)(6,0)
+2021:09:24 14:39:01	:Find"PLACE"
+	:Program	:509.prg(Command:3)	:509_Robot	:PC	:'PLACE - palettázás - nem kell
+2021:09:24 15:17:45	:Find"Phajl1_2_vez1"
+	:Program	:509.prg(Command:7)	:509_Robot	:PC	:'Phajl1_2_vez1 és 2 - alsó megfogó megfog és lehúz
+	:Program	:509.prg(Command:775)	:509_Robot	:PC	:    Mov Phajl1_2_vez1,-150
+	:Program	:509.prg(Command:778)	:509_Robot	:PC	:    Mov Phajl1_2_vez1
+	:Program	:509.prg(Position:Phajl1_2_vez1)	:509_Robot	:PC	:Phajl1_2_vez1=(403.110,-166.090,501.050,8.320,-70.290,148.920)(6,0)

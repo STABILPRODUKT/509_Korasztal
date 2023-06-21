@@ -1,0 +1,5 @@
+Watch data file;Display Format;2;Signal Checkbox;1;Input Signal Start;900;Output Signal Start;0;Register Checkbox;0;Input Register Start;6000;Output Register Start;6000
+mcmd;Float;+0
+mcmd_cnt;Float;+0
+mcmd_num;Float;+0
+mcode;Float;0

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Workspace>
+	<Workspace_Title/>
+	<Workspace_Vertion>4.0.0</Workspace_Vertion>
+	<Workspace_Date>2018/03/08 16:16:43</Workspace_Date>
+	<Project>509_Robot</Project>
+	<LastLayoutSelect>ImportLayout</LastLayoutSelect>
+	<ScreenRect>
+		<Screen160>
+			<AdditionalInfo/>
+			<Left>265</Left>
+			<Top>97</Top>
+			<Right>581</Right>
+			<Bottom>464</Bottom>
+		</Screen160>
+		<Screen2782>
+			<AdditionalInfo/>
+			<Left>25</Left>
+			<Top>25</Top>
+			<Right>476</Right>
+			<Bottom>353</Bottom>
+		</Screen2782>
+		<Screen487>
+			<AdditionalInfo>0</AdditionalInfo>
+			<Left>229</Left>
+			<Top>120</Top>
+			<Right>1286</Right>
+			<Bottom>732</Bottom>
+		</Screen487>
+	</ScreenRect>
+	<Display3D>
+		<RobotModelType>0</RobotModelType>
+		<ZoomType>0</ZoomType>
+	</Display3D>
+</Workspace>

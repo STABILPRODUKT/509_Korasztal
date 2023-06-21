@@ -1,0 +1,46 @@
+File Version=RT2
+Special	0	All slot Start 	10006	1	Bin
+Special	0	All slot Stop  (no change)	10000	1	Bin
+Special	0	Program reset 	10008	1	Bin
+Special	0	Error reset 	10009	1	Bin
+Special	0	Cycle stop 	10012	1	Bin
+Special	0	Servo off 	10011	1	Bin
+Special	0	Servo on 	10010	1	Bin
+Special	0	Operation enable 	10005	1	Bin
+Special	0	Move home 	10013	1	Bin
+Special	0	General output reset 	10015	1	Bin
+Special	0	Program number select 	10020	1	Bin
+Special	0	OVRD specification 	10021	1	Bin
+Special	0	Prog. No. output requirement 	10022	1	Bin
+Special	0	Line No. output requirement 	10023	1	Bin
+Special	0	OVRD output requirement 	10024	1	Bin
+Special	0	Err. No. output requirement 	10025	1	Bin
+Special	0	Value input signal 	10032	16	Bin
+Special	1	During execute 	10006	1	Bin
+Special	1	During wait 	10000	1	Bin
+Special	1	Prgram select enable 	10008	1	Bin
+Special	1	During error 	10009	1	Bin
+Special	1	During cycle stop 	10012	1	Bin
+Special	1	Servo on disable 	10011	1	Bin
+Special	1	During servo on 	10010	1	Bin
+Special	1	Operation enable 	10005	1	Bin
+Special	1	Moving home 	10013	1	Bin
+Special	1	During H-error 	10016	1	Bin
+Special	1	During L-error 	10017	1	Bin
+Special	1	During caution 	10018	1	Bin
+Special	1	During EMG 	10019	1	Bin
+Special	1	Teach mode 	10003	1	Bin
+Special	1	Auto(Op) mode 	10004	1	Bin
+Special	1	Auto(Ext) mode 	10002	1	Bin
+Special	1	Stop in 	10007	1	Bin
+Special	1	During output Prg. No. 	10022	1	Bin
+Special	1	During output Line No. 	10023	1	Bin
+Special	1	During output OVRD 	10024	1	Bin
+Special	1	During output Err. No. 	10025	1	Bin
+Special	1	Value output signal 	10032	16	Bin
+Special	1	Within user defined area  	10064	8	Bin
+Special	1	R/C ready 	10001	1	Bin
+Special	1	Low battery 	10014	1	Bin
+Special	1	Robot1 hand output signal  <Mech. 1>	10048	8	Bin
+Special	1	Robot1 hand input signal  <Mech. 1>	10056	8	Bin
+General	1	Hand 6	10015	1	Bin

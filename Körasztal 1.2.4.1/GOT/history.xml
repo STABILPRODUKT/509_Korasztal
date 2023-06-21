@@ -1,0 +1,77 @@
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <DSHISTORY>
+    <D_History diffgr:id="D_History1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iID>1</iID>
+      <iProjectdataID>1</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2019-02-27T15:59:59.8523851+01:00</dtUpdateDate>
+      <dtFileTimeStamp>2017-10-09T13:01:56.7206448+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2019-02-27T15:59:59.8523851+01:00</dtFileUpdateDate>
+      <iFileSize>58</iFileSize>
+      <szMD5val>QaKI4ePUQhZRvyE9JG4VIw==</szMD5val>
+      <szProjectdataName>GOT.prj</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+      <iID>2</iID>
+      <iProjectdataID>2</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2018-05-08T10:01:40.7804166+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2017-10-09T13:01:56.7296453+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2018-05-08T10:01:40.7804166+02:00</dtFileUpdateDate>
+      <iFileSize>36</iFileSize>
+      <szMD5val>jVwcsubXwP4vpQfA/C6Qlg==</szMD5val>
+      <szProjectdataName>PrjStatus.flg</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+      <iID>3</iID>
+      <iProjectdataID>3</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtFileTimeStamp>2017-10-09T13:01:56.881654+02:00</dtFileTimeStamp>
+      <szMD5val />
+      <szProjectdataName>Project.gt32</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History4" msdata:rowOrder="3" diffgr:hasChanges="inserted">
+      <iID>4</iID>
+      <iProjectdataID>4</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-02-27T11:02:00.9781919+01:00</dtUpdateDate>
+      <dtFileTimeStamp>2017-10-09T13:01:56.8936547+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-02-27T11:02:00.9781919+01:00</dtFileUpdateDate>
+      <iFileSize>3604006</iFileSize>
+      <szMD5val>UIDfWIq7LkKTD7VTpW/mJQ==</szMD5val>
+      <szProjectdataName>GTXFILE</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+      <iID>5</iID>
+      <iProjectdataID>5</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2023-02-27T11:02:01.0348246+01:00</dtUpdateDate>
+      <dtFileTimeStamp>2017-10-09T13:01:56.9026552+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2023-02-27T11:02:01.0348246+01:00</dtFileUpdateDate>
+      <iFileSize>60</iFileSize>
+      <szMD5val>YWgyykFg1yo8RFyKYb6jWg==</szMD5val>
+      <szProjectdataName>DATAPROFILE</szProjectdataName>
+    </D_History>
+    <D_History diffgr:id="D_History6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+      <iID>6</iID>
+      <iProjectdataID>6</iProjectdataID>
+      <szComment />
+      <iEditor>0</iEditor>
+      <dtUpdateDate>2017-10-09T13:05:22.1533949+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2017-10-09T13:05:22.1533949+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2017-10-09T13:05:22.1533949+02:00</dtFileUpdateDate>
+      <iFileSize>8</iFileSize>
+      <szMD5val>feo2Kz+sjgCVaklSo9T0dA==</szMD5val>
+      <szProjectdataName>FuncSecurityLevel.fsl</szProjectdataName>
+    </D_History>
+    <D_DBVersion diffgr:id="D_DBVersion4" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iSupportVersion>1</iSupportVersion>
+      <iCreateVersion>1</iCreateVersion>
+    </D_DBVersion>
+  </DSHISTORY>
+</diffgr:diffgram>
