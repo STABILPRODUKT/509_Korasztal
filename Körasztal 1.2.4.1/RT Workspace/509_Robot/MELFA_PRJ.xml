@@ -875,10 +875,10 @@
 		</Screen279>
 		<Screen2721>
 			<AdditionalInfo>0</AdditionalInfo>
-			<Left>78</Left>
-			<Top>78</Top>
-			<Right>745</Right>
-			<Bottom>438</Bottom>
+			<Left>26</Left>
+			<Top>26</Top>
+			<Right>693</Right>
+			<Bottom>386</Bottom>
 		</Screen2721>
 		<Screen2722>
 			<AdditionalInfo>0</AdditionalInfo>
@@ -1214,7 +1214,7 @@
 	<RCtype>2</RCtype>
 	<MECHA1>RV-4FLM-Q</MECHA1>
 	<RLNG>2</RLNG>
-	<Localization/>
+	<Localization> </Localization>
 	<Travel_prm_set>0</Travel_prm_set>
 	<Travel_use>0</Travel_use>
 	<Travel_direct>0</Travel_direct>
