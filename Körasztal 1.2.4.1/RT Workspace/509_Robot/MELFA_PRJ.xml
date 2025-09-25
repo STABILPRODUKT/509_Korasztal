@@ -455,10 +455,10 @@
 		</Screen234>
 		<Screen230>
 			<AdditionalInfo/>
-			<Left>171</Left>
-			<Top>-11</Top>
-			<Right>810</Right>
-			<Bottom>356</Bottom>
+			<Left>-9</Left>
+			<Top>31</Top>
+			<Right>630</Right>
+			<Bottom>398</Bottom>
 		</Screen230>
 		<Screen2803>
 			<AdditionalInfo/>
@@ -1209,12 +1209,19 @@
 			<Right>434</Right>
 			<Bottom>332</Bottom>
 		</Screen233>
+		<Screen363>
+			<AdditionalInfo/>
+			<Left>52</Left>
+			<Top>0</Top>
+			<Right>743</Right>
+			<Bottom>538</Bottom>
+		</Screen363>
 	</ScreenRect>
 	<ProjComment/>
 	<RCtype>2</RCtype>
 	<MECHA1>RV-4FLM-Q</MECHA1>
 	<RLNG>2</RLNG>
-	<Localization> </Localization>
+	<Localization/>
 	<Travel_prm_set>0</Travel_prm_set>
 	<Travel_use>0</Travel_use>
 	<Travel_direct>0</Travel_direct>
