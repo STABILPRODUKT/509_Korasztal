@@ -28,14 +28,21 @@
       <iProjectAttributeID>10</iProjectAttributeID>
       <bUserManage>false</bUserManage>
     </D_Project>
-    <D_Project diffgr:id="D_Project7" msdata:rowOrder="4" diffgr:hasChanges="inserted">
+    <D_Project diffgr:id="D_Project5" msdata:rowOrder="4" diffgr:hasChanges="inserted">
       <iID>5</iID>
       <szName>509_Robot</szName>
       <dtCreateDate>2023-04-27T11:40:15.4820768+02:00</dtCreateDate>
       <iProjectAttributeID>10</iProjectAttributeID>
       <bUserManage>false</bUserManage>
     </D_Project>
-    <D_DBVersion diffgr:id="D_DBVersion3" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+    <D_Project diffgr:id="D_Project6" msdata:rowOrder="5" diffgr:hasChanges="inserted">
+      <iID>6</iID>
+      <szName>GOT2</szName>
+      <dtCreateDate>2026-07-10T14:23:55.8433134+02:00</dtCreateDate>
+      <iProjectAttributeID>12</iProjectAttributeID>
+      <bUserManage>false</bUserManage>
+    </D_Project>
+    <D_DBVersion diffgr:id="D_DBVersion2" msdata:rowOrder="0" diffgr:hasChanges="inserted">
       <iSupportVersion>1</iSupportVersion>
       <iCreateVersion>1</iCreateVersion>
     </D_DBVersion>
