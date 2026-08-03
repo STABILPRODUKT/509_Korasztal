@@ -1,0 +1,20 @@
+:GT2K_OPELOG,1
+:LOG_NUM,14
+:DATE_ORDER,YYYY/MM/DD hh:mm:ss
+:LOCAL_TIME,GMT+01:00
+:TIME_INF_ORDER,L
+NO,DATE,SCRN_NO,ACT_ABBR,ACTION,OPNAME,OPERATOR,OPE_ID,USER_ID,SUB_NO,DATA_TYPE,CH_NUM,NET_STA,DEV_NAME,CHG_VALUE,CHG_VALUE_CONT,PREV_VALUE,PREV_VALUE_DISP
+1,2026/05/12 04:47:03,-,Start,"Start GOT","-","-",-,23489,-,-,-,-,"-","GOT_No-0","-","-","-"
+2,2026/05/12 04:47:03,-,TimeZone,"Set time zone","-","-",-,-,-,-,-,-,"-","GMT+01:00","-","-","-"
+3,2026/05/12 04:47:42,-,Login,"Login","-","69498",5,-,-,-,-,-,"-","-","-","-","-"
+4,2026/05/12 06:06:36,-,ChgOpNG,"Operator switching failed","-","69096",0,-,-,-,-,-,"-","-","-","-","-"
+5,2026/05/12 06:06:55,-,ChgOpNG,"Operator switching failed","-","6",0,-,-,-,-,-,"-","-","-","-","-"
+6,2026/05/12 06:07:12,-,ChgOpNG,"Operator switching failed","-","6906",0,-,-,-,-,-,"-","-","-","-","-"
+7,2026/05/12 06:07:42,-,Logout,"Logout","-","69498",5,-,-,-,-,-,"-","-","-","-","-"
+8,2026/05/12 06:07:42,-,ChgOp,"Switch operator","-","69096",11,-,-,-,-,-,"-","-","-","-","-"
+9,2026/05/12 06:12:12,-,Start,"Start GOT","-","-",-,23489,-,-,-,-,"-","GOT_No-0","-","-","-"
+10,2026/05/12 06:12:12,-,TimeZone,"Set time zone","-","-",-,-,-,-,-,-,"-","GMT+01:00","-","-","-"
+11,2026/05/12 06:16:57,-,LoginNG,"Login failed","-","6",0,-,-,-,-,-,"-","-","-","-","-"
+12,2026/05/12 06:17:16,-,LoginNG,"Login failed","-","6",0,-,-,-,-,-,"-","-","-","-","-"
+13,2026/05/12 06:17:25,-,LoginNG,"Login failed","-","9",0,-,-,-,-,-,"-","-","-","-","-"
+14,2026/05/12 06:18:09,-,Login,"Login","-","69096",11,-,-,-,-,-,"-","-","-","-","-"

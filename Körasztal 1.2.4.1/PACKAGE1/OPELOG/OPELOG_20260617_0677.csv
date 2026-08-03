@@ -1,0 +1,11 @@
+:GT2K_OPELOG,1
+:LOG_NUM,5
+:DATE_ORDER,YYYY/MM/DD hh:mm:ss
+:LOCAL_TIME,GMT+01:00
+:TIME_INF_ORDER,L
+NO,DATE,SCRN_NO,ACT_ABBR,ACTION,OPNAME,OPERATOR,OPE_ID,USER_ID,SUB_NO,DATA_TYPE,CH_NUM,NET_STA,DEV_NAME,CHG_VALUE,CHG_VALUE_CONT,PREV_VALUE,PREV_VALUE_DISP
+1,2026/06/17 11:36:36,-,Start,"Start GOT","-","-",-,23489,-,-,-,-,"-","GOT_No-0","-","-","-"
+2,2026/06/17 11:36:36,-,TimeZone,"Set time zone","-","-",-,-,-,-,-,-,"-","GMT+01:00","-","-","-"
+3,2026/06/17 11:40:38,-,Login,"Login","-","69096",11,-,-,-,-,-,"-","-","-","-","-"
+4,2026/06/17 20:17:48,-,Start,"Start GOT","-","-",-,23489,-,-,-,-,"-","GOT_No-0","-","-","-"
+5,2026/06/17 20:17:48,-,TimeZone,"Set time zone","-","-",-,-,-,-,-,-,"-","GMT+01:00","-","-","-"
