@@ -1,0 +1,17 @@
+:GT2K_OPELOG,1
+:LOG_NUM,11
+:DATE_ORDER,YYYY/MM/DD hh:mm:ss
+:LOCAL_TIME,GMT+01:00
+:TIME_INF_ORDER,L
+NO,DATE,SCRN_NO,ACT_ABBR,ACTION,OPNAME,OPERATOR,OPE_ID,USER_ID,SUB_NO,DATA_TYPE,CH_NUM,NET_STA,DEV_NAME,CHG_VALUE,CHG_VALUE_CONT,PREV_VALUE,PREV_VALUE_DISP
+1,2026/08/03 06:13:02,-,Start,"Start GOT","-","-",-,23489,-,-,-,-,"-","GOT_No-0","-","-","-"
+2,2026/08/03 06:13:02,-,TimeZone,"Set time zone","-","-",-,-,-,-,-,-,"-","GMT+01:00","-","-","-"
+3,2026/08/03 06:13:45,-,Login,"Login","-","69096",11,-,-,-,-,-,"-","-","-","-","-"
+4,2026/08/03 06:44:47,-,Start,"Start GOT","-","-",-,23489,-,-,-,-,"-","GOT_No-0","-","-","-"
+5,2026/08/03 06:44:47,-,TimeZone,"Set time zone","-","-",-,-,-,-,-,-,"-","GMT+01:00","-","-","-"
+6,2026/08/03 06:45:54,-,LoginNG,"Login failed","-","69090",0,-,-,-,-,-,"-","-","-","-","-"
+7,2026/08/03 06:46:34,-,Login,"Login","-","69096",11,-,-,-,-,-,"-","-","-","-","-"
+8,2026/08/03 15:44:40,-,Offline,"Shift to GOT offline mode","-","-",-,-,-,-,-,-,"-","-","-","-","-"
+9,2026/08/03 15:53:25,-,Start,"Start GOT","-","-",-,23489,-,-,-,-,"-","GOT_No-0","-","-","-"
+10,2026/08/03 15:53:25,-,TimeZone,"Set time zone","-","-",-,-,-,-,-,-,"-","GMT+01:00","-","-","-"
+11,2026/08/03 16:03:48,-,Login,"Login","-","69281",10,-,-,-,-,-,"-","-","-","-","-"
