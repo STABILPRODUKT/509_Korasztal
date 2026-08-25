@@ -5,11 +5,19 @@
       <iProjectdataID>1</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
+<<<<<<< Updated upstream
       <dtUpdateDate>2026-07-31T15:23:49.8399386+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:13.8802662+02:00</dtFileTimeStamp>
       <dtFileUpdateDate>2026-07-31T15:23:49.8399386+02:00</dtFileUpdateDate>
       <iFileSize>586</iFileSize>
       <szMD5val>cgrY0VOK+hr5ewa4wGUmhw==</szMD5val>
+=======
+      <dtUpdateDate>2026-08-24T15:28:46.354981+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2019-06-25T15:36:13.8802662+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2026-08-24T15:28:46.354981+02:00</dtFileUpdateDate>
+      <iFileSize>590</iFileSize>
+      <szMD5val>CliP5LoyHe2asV31YwKsZw==</szMD5val>
+>>>>>>> Stashed changes
       <szProjectdataName>PLC.prj</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
@@ -149,11 +157,19 @@
       <iProjectdataID>13</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
+<<<<<<< Updated upstream
       <dtUpdateDate>2026-07-31T15:23:49.8629385+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:13.911268+02:00</dtFileTimeStamp>
       <dtFileUpdateDate>2026-07-31T15:23:49.8629385+02:00</dtFileUpdateDate>
       <iFileSize>576374</iFileSize>
       <szMD5val>iYdl9mTOxewz0H1HglTF/g==</szMD5val>
+=======
+      <dtUpdateDate>2026-08-24T15:28:46.448928+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2019-06-25T15:36:13.911268+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2026-08-24T15:28:46.448928+02:00</dtFileUpdateDate>
+      <iFileSize>556662</iFileSize>
+      <szMD5val>nZs49xOje8bMMZbSoBMKgg==</szMD5val>
+>>>>>>> Stashed changes
       <szProjectdataName>MAIN.res</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
@@ -1121,11 +1137,19 @@
       <iProjectdataID>94</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
+<<<<<<< Updated upstream
       <dtUpdateDate>2024-04-18T08:47:39.4568046+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.0742773+02:00</dtFileTimeStamp>
       <dtFileUpdateDate>2024-04-18T08:47:39.4568046+02:00</dtFileUpdateDate>
       <iFileSize>2116</iFileSize>
       <szMD5val>qA2cJr3ZC6lMS/qA/j2Adg==</szMD5val>
+=======
+      <dtUpdateDate>2026-08-24T15:28:46.6308228+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2019-06-25T15:36:14.0742773+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2026-08-24T15:28:46.6308228+02:00</dtFileUpdateDate>
+      <iFileSize>2390</iFileSize>
+      <szMD5val>kaUcG/qCR1H44iyQfMysXQ==</szMD5val>
+>>>>>>> Stashed changes
       <szProjectdataName>ST_2_Betolto.Labels.lh</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History95" msdata:rowOrder="94" diffgr:hasChanges="inserted">
@@ -1133,11 +1157,19 @@
       <iProjectdataID>95</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
+<<<<<<< Updated upstream
       <dtUpdateDate>2024-04-18T08:47:39.4588024+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.0762775+02:00</dtFileTimeStamp>
       <dtFileUpdateDate>2024-04-18T08:47:39.4588024+02:00</dtFileUpdateDate>
       <iFileSize>22537</iFileSize>
       <szMD5val>y89ekaEnYssu+ftJ/CPgTQ==</szMD5val>
+=======
+      <dtUpdateDate>2026-08-24T15:28:46.6917888+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2019-06-25T15:36:14.0762775+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2026-08-24T15:28:46.6917888+02:00</dtFileUpdateDate>
+      <iFileSize>30187</iFileSize>
+      <szMD5val>hp2maHnw/KQG5X3nlP6h5A==</szMD5val>
+>>>>>>> Stashed changes
       <szProjectdataName>ST_2_Betolto.Program.pou</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History96" msdata:rowOrder="95" diffgr:hasChanges="inserted">
@@ -1517,9 +1549,15 @@
       <iProjectdataID>127</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
+<<<<<<< Updated upstream
       <dtUpdateDate>2026-07-31T15:23:49.8589429+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.1342808+02:00</dtFileTimeStamp>
       <dtFileUpdateDate>2026-07-31T15:23:49.8589429+02:00</dtFileUpdateDate>
+=======
+      <dtUpdateDate>2026-08-24T15:28:46.3799654+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2019-06-25T15:36:14.1342808+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2026-08-24T15:28:46.3799654+02:00</dtFileUpdateDate>
+>>>>>>> Stashed changes
       <iFileSize>38</iFileSize>
       <szMD5val>MC+hKgtWJjVn5eVXtI2FWw==</szMD5val>
       <szProjectdataName>Param.lup</szProjectdataName>
@@ -2777,11 +2815,19 @@
       <iProjectdataID>232</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
+<<<<<<< Updated upstream
       <dtUpdateDate>2026-07-31T15:23:50.1580048+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.5693057+02:00</dtFileTimeStamp>
       <dtFileUpdateDate>2026-07-31T15:23:50.1580048+02:00</dtFileUpdateDate>
       <iFileSize>77824</iFileSize>
       <szMD5val>A2qrUMCsszR6lBmKi8lxrQ==</szMD5val>
+=======
+      <dtUpdateDate>2026-08-24T15:28:47.2304787+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2019-06-25T15:36:14.5693057+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2026-08-24T15:28:47.2304787+02:00</dtFileUpdateDate>
+      <iFileSize>77824</iFileSize>
+      <szMD5val>fH0IvnYR10deOpMD0ukPpw==</szMD5val>
+>>>>>>> Stashed changes
       <szProjectdataName>DeviceAssignment.dat</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History233" msdata:rowOrder="232" diffgr:hasChanges="inserted">
@@ -2789,11 +2835,19 @@
       <iProjectdataID>233</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
+<<<<<<< Updated upstream
       <dtUpdateDate>2026-07-31T15:23:50.1610068+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.5723058+02:00</dtFileTimeStamp>
       <dtFileUpdateDate>2026-07-31T15:23:50.1610068+02:00</dtFileUpdateDate>
       <iFileSize>77824</iFileSize>
       <szMD5val>DuoaQqj+fpFMdaBoeDiibA==</szMD5val>
+=======
+      <dtUpdateDate>2026-08-24T15:28:47.2334784+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2019-06-25T15:36:14.5723058+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2026-08-24T15:28:47.2334784+02:00</dtFileUpdateDate>
+      <iFileSize>77824</iFileSize>
+      <szMD5val>xk+olbFzV141bjipASq3KQ==</szMD5val>
+>>>>>>> Stashed changes
       <szProjectdataName>ProgramAnalysis.dat</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History234" msdata:rowOrder="233" diffgr:hasChanges="inserted">
@@ -2801,11 +2855,19 @@
       <iProjectdataID>234</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
+<<<<<<< Updated upstream
       <dtUpdateDate>2026-07-31T15:23:50.1670048+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.5743059+02:00</dtFileTimeStamp>
       <dtFileUpdateDate>2026-07-31T15:23:50.1670048+02:00</dtFileUpdateDate>
       <iFileSize>102400</iFileSize>
       <szMD5val>y4MdnxqNIYooGCt1Nnaa2Q==</szMD5val>
+=======
+      <dtUpdateDate>2026-08-24T15:28:47.3084371+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2019-06-25T15:36:14.5743059+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2026-08-24T15:28:47.3084371+02:00</dtFileUpdateDate>
+      <iFileSize>102400</iFileSize>
+      <szMD5val>ufhH+8PcGtz0VZBKblJvQA==</szMD5val>
+>>>>>>> Stashed changes
       <szProjectdataName>DebugInformation.dat</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History235" msdata:rowOrder="234" diffgr:hasChanges="inserted">
@@ -2813,11 +2875,19 @@
       <iProjectdataID>235</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
+<<<<<<< Updated upstream
       <dtUpdateDate>2026-07-31T15:23:50.1690041+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.5793062+02:00</dtFileTimeStamp>
       <dtFileUpdateDate>2026-07-31T15:23:50.1690041+02:00</dtFileUpdateDate>
       <iFileSize>376200</iFileSize>
       <szMD5val>QCFj7zmAiWb6iGXYZBX8aA==</szMD5val>
+=======
+      <dtUpdateDate>2026-08-24T13:58:36.4366374+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2019-06-25T15:36:14.5793062+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2026-08-24T13:58:36.4366374+02:00</dtFileUpdateDate>
+      <iFileSize>376892</iFileSize>
+      <szMD5val>3esPCZyrwDQUbAMubP4hyw==</szMD5val>
+>>>>>>> Stashed changes
       <szProjectdataName>CallTree.dat</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History236" msdata:rowOrder="235" diffgr:hasChanges="inserted">
@@ -2825,11 +2895,19 @@
       <iProjectdataID>236</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
+<<<<<<< Updated upstream
       <dtUpdateDate>2026-07-31T15:23:50.1730036+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.5983073+02:00</dtFileTimeStamp>
       <dtFileUpdateDate>2026-07-31T15:23:50.1730036+02:00</dtFileUpdateDate>
       <iFileSize>702373</iFileSize>
       <szMD5val>Hem91m9PMPBzIzFzCB0VoQ==</szMD5val>
+=======
+      <dtUpdateDate>2026-08-24T15:28:47.3773957+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2019-06-25T15:36:14.5983073+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2026-08-24T15:28:47.3773957+02:00</dtFileUpdateDate>
+      <iFileSize>1869750</iFileSize>
+      <szMD5val>e3JXmhNOtCuW+uBF4RGI/w==</szMD5val>
+>>>>>>> Stashed changes
       <szProjectdataName>CGTable.dat</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History237" msdata:rowOrder="236" diffgr:hasChanges="inserted">
@@ -2837,11 +2915,19 @@
       <iProjectdataID>237</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
+<<<<<<< Updated upstream
       <dtUpdateDate>2026-07-31T15:23:50.1760813+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.6093079+02:00</dtFileTimeStamp>
       <dtFileUpdateDate>2026-07-31T15:23:50.1760813+02:00</dtFileUpdateDate>
       <iFileSize>253558</iFileSize>
       <szMD5val>4Bthj4q26vY5SCDO2gnUJw==</szMD5val>
+=======
+      <dtUpdateDate>2026-08-24T15:28:47.4445203+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2019-06-25T15:36:14.6093079+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2026-08-24T15:28:47.4445203+02:00</dtFileUpdateDate>
+      <iFileSize>260113</iFileSize>
+      <szMD5val>AB2L6TZjHbzC7oXR/FYJlA==</szMD5val>
+>>>>>>> Stashed changes
       <szProjectdataName>DebugInformation2.dat</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History238" msdata:rowOrder="237" diffgr:hasChanges="inserted">
@@ -2849,11 +2935,19 @@
       <iProjectdataID>238</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
+<<<<<<< Updated upstream
       <dtUpdateDate>2026-07-31T15:23:50.2014566+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.628309+02:00</dtFileTimeStamp>
       <dtFileUpdateDate>2026-07-31T15:23:50.2014566+02:00</dtFileUpdateDate>
       <iFileSize>1400320</iFileSize>
       <szMD5val>Ie0Bu/HK2VpQEzpgFx2lkg==</szMD5val>
+=======
+      <dtUpdateDate>2026-08-24T15:28:47.5734474+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2019-06-25T15:36:14.628309+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2026-08-24T15:28:47.5734474+02:00</dtFileUpdateDate>
+      <iFileSize>1432064</iFileSize>
+      <szMD5val>KFsaemEZ+ZWNzyH0NTHdkQ==</szMD5val>
+>>>>>>> Stashed changes
       <szProjectdataName>ESCompiler.stg</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History239" msdata:rowOrder="238" diffgr:hasChanges="inserted">
@@ -2873,11 +2967,19 @@
       <iProjectdataID>240</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
+<<<<<<< Updated upstream
       <dtUpdateDate>2026-07-31T15:23:50.4189502+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.855322+02:00</dtFileTimeStamp>
       <dtFileUpdateDate>2026-07-31T15:23:50.4189502+02:00</dtFileUpdateDate>
       <iFileSize>224738</iFileSize>
       <szMD5val>ON+mvANIcEtsSblayUX87w==</szMD5val>
+=======
+      <dtUpdateDate>2026-08-24T15:28:48.0713486+02:00</dtUpdateDate>
+      <dtFileTimeStamp>2019-06-25T15:36:14.855322+02:00</dtFileTimeStamp>
+      <dtFileUpdateDate>2026-08-24T15:28:48.0713486+02:00</dtFileUpdateDate>
+      <iFileSize>225458</iFileSize>
+      <szMD5val>yFt/5lFRo39v9A0N75+FWA==</szMD5val>
+>>>>>>> Stashed changes
       <szProjectdataName>Gppw2.gpj</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History241" msdata:rowOrder="240" diffgr:hasChanges="inserted">
@@ -2988,16 +3090,28 @@
       <szMD5val>ziWQSnvOwPD+/9CJwTFTRQ==</szMD5val>
       <szProjectdataName>ST_Cylinder_WO_Sensor.Program.pou</szProjectdataName>
     </D_History>
+<<<<<<< Updated upstream
     <D_History diffgr:id="D_History251" msdata:rowOrder="249" diffgr:hasChanges="inserted">
+=======
+    <D_History diffgr:id="D_History254" msdata:rowOrder="249" diffgr:hasChanges="inserted">
+>>>>>>> Stashed changes
       <iID>248</iID>
       <iProjectdataID>248</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
+<<<<<<< Updated upstream
       <dtFileTimeStamp>2026-07-31T15:23:50.7342234+02:00</dtFileTimeStamp>
       <szMD5val />
       <szProjectdataName>Project.gd2</szProjectdataName>
     </D_History>
     <D_DBVersion diffgr:id="D_DBVersion4" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+=======
+      <dtFileTimeStamp>2026-08-24T15:28:48.8558981+02:00</dtFileTimeStamp>
+      <szMD5val />
+      <szProjectdataName>Project.gd2</szProjectdataName>
+    </D_History>
+    <D_DBVersion diffgr:id="D_DBVersion11" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+>>>>>>> Stashed changes
       <iSupportVersion>1</iSupportVersion>
       <iCreateVersion>1</iCreateVersion>
     </D_DBVersion>

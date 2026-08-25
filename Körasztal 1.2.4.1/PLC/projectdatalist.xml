@@ -3486,11 +3486,19 @@
       <ucReserve>0</ucReserve>
       <ucFileType>2</ucFileType>
     </D_Projectdata>
+<<<<<<< Updated upstream
     <D_Projectdata diffgr:id="D_Projectdata251" msdata:rowOrder="249" diffgr:hasChanges="inserted">
       <iID>248</iID>
       <szName>Project.gd2</szName>
       <dtCreateDate>2026-07-31T15:23:50.6897139+02:00</dtCreateDate>
       <dtUpdateDate>2026-07-31T15:23:50.6897139+02:00</dtUpdateDate>
+=======
+    <D_Projectdata diffgr:id="D_Projectdata254" msdata:rowOrder="249" diffgr:hasChanges="inserted">
+      <iID>248</iID>
+      <szName>Project.gd2</szName>
+      <dtCreateDate>2026-08-24T15:28:48.7699498+02:00</dtCreateDate>
+      <dtUpdateDate>2026-08-24T15:28:48.7699498+02:00</dtUpdateDate>
+>>>>>>> Stashed changes
       <bScrapFlag>false</bScrapFlag>
       <bStructuredStorage>false</bStructuredStorage>
       <iCreaterID>0</iCreaterID>
@@ -3500,7 +3508,11 @@
       <ucReserve>0</ucReserve>
       <ucFileType>0</ucFileType>
     </D_Projectdata>
+<<<<<<< Updated upstream
     <D_DBVersion diffgr:id="D_DBVersion3" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+=======
+    <D_DBVersion diffgr:id="D_DBVersion9" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+>>>>>>> Stashed changes
       <iSupportVersion>1</iSupportVersion>
       <iCreateVersion>1</iCreateVersion>
     </D_DBVersion>
