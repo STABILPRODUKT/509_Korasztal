@@ -5,11 +5,11 @@
       <iProjectdataID>1</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2026-08-27T10:35:05.0357142+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:39.1538913+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:13.8802662+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-27T10:35:05.0357142+02:00</dtFileUpdateDate>
+      <dtFileUpdateDate>2026-09-22T11:31:39.1538913+02:00</dtFileUpdateDate>
       <iFileSize>590</iFileSize>
-      <szMD5val>JBw9MiXJ1ioSs2gSM4+KJg==</szMD5val>
+      <szMD5val>JNjgkZTwtx2jxss5Ll42Iw==</szMD5val>
       <szProjectdataName>PLC.prj</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
@@ -149,11 +149,11 @@
       <iProjectdataID>13</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2026-08-27T10:35:05.2146108+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:39.2419566+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:13.911268+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-27T10:35:05.2146108+02:00</dtFileUpdateDate>
-      <iFileSize>558666</iFileSize>
-      <szMD5val>H6xPxjF8oXAajBmpjtUYvw==</szMD5val>
+      <dtFileUpdateDate>2026-09-22T11:31:39.2419566+02:00</dtFileUpdateDate>
+      <iFileSize>558538</iFileSize>
+      <szMD5val>lrIvTRKFyr6xqfZE0QankQ==</szMD5val>
       <szProjectdataName>MAIN.res</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History14" msdata:rowOrder="13" diffgr:hasChanges="inserted">
@@ -1169,11 +1169,11 @@
       <iProjectdataID>98</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2023-04-27T11:46:49.473579+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:39.4304671+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.0812777+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2023-04-27T11:46:49.473579+02:00</dtFileUpdateDate>
+      <dtFileUpdateDate>2026-09-22T11:31:39.4304671+02:00</dtFileUpdateDate>
       <iFileSize>3356</iFileSize>
-      <szMD5val>vs+pyxHxhN7BoVcatV9wnw==</szMD5val>
+      <szMD5val>gHTOwZ1VSAi8R7bbSeix/A==</szMD5val>
       <szProjectdataName>ST_5_Zsugorcso_Poz.Labels.lh</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History99" msdata:rowOrder="98" diffgr:hasChanges="inserted">
@@ -1181,11 +1181,11 @@
       <iProjectdataID>99</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2023-04-27T11:46:49.4755791+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:39.4774216+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.0832779+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2023-04-27T11:46:49.4755791+02:00</dtFileUpdateDate>
-      <iFileSize>45079</iFileSize>
-      <szMD5val>Za032SRgkIdb8Uu3lpAXfQ==</szMD5val>
+      <dtFileUpdateDate>2026-09-22T11:31:39.4774216+02:00</dtFileUpdateDate>
+      <iFileSize>45095</iFileSize>
+      <szMD5val>qNUYsMTDgFvh5XGX2yg0tA==</szMD5val>
       <szProjectdataName>ST_5_Zsugorcso_Poz.Program.pou</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History100" msdata:rowOrder="99" diffgr:hasChanges="inserted">
@@ -1313,11 +1313,11 @@
       <iProjectdataID>110</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2026-08-26T11:21:07.942021+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:39.5334077+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.1022789+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-26T11:21:07.942021+02:00</dtFileUpdateDate>
+      <dtFileUpdateDate>2026-09-22T11:31:39.5334077+02:00</dtFileUpdateDate>
       <iFileSize>4576</iFileSize>
-      <szMD5val>tFxMOP9sylVvb8f5MS8gTQ==</szMD5val>
+      <szMD5val>H1stTl1DCp2hgv0YvGOGsA==</szMD5val>
       <szProjectdataName>ST_8_3_Lakkozo_1.Labels.lh</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History111" msdata:rowOrder="110" diffgr:hasChanges="inserted">
@@ -1325,11 +1325,11 @@
       <iProjectdataID>111</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2026-08-26T11:21:08.0029868+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:39.5823616+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.1042791+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-26T11:21:08.0029868+02:00</dtFileUpdateDate>
-      <iFileSize>38723</iFileSize>
-      <szMD5val>MnPOz/MRmAx4ADmZDxrHSg==</szMD5val>
+      <dtFileUpdateDate>2026-09-22T11:31:39.5823616+02:00</dtFileUpdateDate>
+      <iFileSize>38731</iFileSize>
+      <szMD5val>vI8aAR/idGwjStvQa+qFig==</szMD5val>
       <szProjectdataName>ST_8_3_Lakkozo_1.Program.pou</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History112" msdata:rowOrder="111" diffgr:hasChanges="inserted">
@@ -1337,11 +1337,11 @@
       <iProjectdataID>112</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2026-08-26T11:30:44.7992855+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:39.6365046+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.1052791+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-26T11:30:44.7992855+02:00</dtFileUpdateDate>
+      <dtFileUpdateDate>2026-09-22T11:31:39.6365046+02:00</dtFileUpdateDate>
       <iFileSize>4122</iFileSize>
-      <szMD5val>XHXaZEcKJjqQIcXXLXobEA==</szMD5val>
+      <szMD5val>q4wjvRrll8uqnLOV1UnHuA==</szMD5val>
       <szProjectdataName>ST_8_3_Lakkozo_2.Labels.lh</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History113" msdata:rowOrder="112" diffgr:hasChanges="inserted">
@@ -1349,11 +1349,11 @@
       <iProjectdataID>113</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2026-08-26T11:30:44.8562545+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:39.6854765+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.1072792+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-26T11:30:44.8562545+02:00</dtFileUpdateDate>
-      <iFileSize>38869</iFileSize>
-      <szMD5val>00+509D+/pPRwJOQJYDa1Q==</szMD5val>
+      <dtFileUpdateDate>2026-09-22T11:31:39.6854765+02:00</dtFileUpdateDate>
+      <iFileSize>38877</iFileSize>
+      <szMD5val>t3Nyxglhld8xtKa4E1sMbw==</szMD5val>
       <szProjectdataName>ST_8_3_Lakkozo_2.Program.pou</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History114" msdata:rowOrder="113" diffgr:hasChanges="inserted">
@@ -1517,11 +1517,11 @@
       <iProjectdataID>127</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2026-08-27T10:35:05.1386542+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:39.1818755+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.1342808+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-27T10:35:05.1386542+02:00</dtFileUpdateDate>
+      <dtFileUpdateDate>2026-09-22T11:31:39.1818755+02:00</dtFileUpdateDate>
       <iFileSize>38</iFileSize>
-      <szMD5val>MC+hKgtWJjVn5eVXtI2FWw==</szMD5val>
+      <szMD5val>6BWIShimTuFpCIoq7uP8iw==</szMD5val>
       <szProjectdataName>Param.lup</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History128" msdata:rowOrder="127" diffgr:hasChanges="inserted">
@@ -2777,11 +2777,11 @@
       <iProjectdataID>232</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
-      <dtUpdateDate>2026-08-27T10:35:06.2010454+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:40.1531703+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.5693057+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-27T10:35:06.2010454+02:00</dtFileUpdateDate>
+      <dtFileUpdateDate>2026-09-22T11:31:40.1531703+02:00</dtFileUpdateDate>
       <iFileSize>77824</iFileSize>
-      <szMD5val>mZhonW1eKiL/VJ1XT0PP3g==</szMD5val>
+      <szMD5val>PgBST9XDYCj+vfITIMc/wA==</szMD5val>
       <szProjectdataName>DeviceAssignment.dat</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History233" msdata:rowOrder="232" diffgr:hasChanges="inserted">
@@ -2789,11 +2789,11 @@
       <iProjectdataID>233</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
-      <dtUpdateDate>2026-08-27T10:35:06.2050438+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:40.1561698+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.5723058+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-27T10:35:06.2050438+02:00</dtFileUpdateDate>
+      <dtFileUpdateDate>2026-09-22T11:31:40.1561698+02:00</dtFileUpdateDate>
       <iFileSize>77824</iFileSize>
-      <szMD5val>/OP3mw/llpkQ8Bd+YARbWg==</szMD5val>
+      <szMD5val>w1P6SsRzfiYI7/y8a8RtFA==</szMD5val>
       <szProjectdataName>ProgramAnalysis.dat</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History234" msdata:rowOrder="233" diffgr:hasChanges="inserted">
@@ -2801,11 +2801,11 @@
       <iProjectdataID>234</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
-      <dtUpdateDate>2026-08-27T10:35:06.280999+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:40.2111384+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.5743059+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-27T10:35:06.280999+02:00</dtFileUpdateDate>
+      <dtFileUpdateDate>2026-09-22T11:31:40.2111384+02:00</dtFileUpdateDate>
       <iFileSize>102400</iFileSize>
-      <szMD5val>qXxNoX41b5z6+V1UyZhYmw==</szMD5val>
+      <szMD5val>rELUiSBjFPZKkVnKWFcCVA==</szMD5val>
       <szProjectdataName>DebugInformation.dat</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History235" msdata:rowOrder="234" diffgr:hasChanges="inserted">
@@ -2813,11 +2813,11 @@
       <iProjectdataID>235</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
-      <dtUpdateDate>2026-08-27T10:35:06.3499741+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:40.2631103+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.5793062+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-27T10:35:06.3499741+02:00</dtFileUpdateDate>
-      <iFileSize>377067</iFileSize>
-      <szMD5val>AsC3cL5ye+FjiINmWS6rJg==</szMD5val>
+      <dtFileUpdateDate>2026-09-22T11:31:40.2631103+02:00</dtFileUpdateDate>
+      <iFileSize>376908</iFileSize>
+      <szMD5val>J/UhE3dpNMQ4/SkI3nVFQQ==</szMD5val>
       <szProjectdataName>CallTree.dat</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History236" msdata:rowOrder="235" diffgr:hasChanges="inserted">
@@ -2825,11 +2825,11 @@
       <iProjectdataID>236</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
-      <dtUpdateDate>2026-08-27T10:35:06.433912+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:40.3210762+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.5983073+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-27T10:35:06.433912+02:00</dtFileUpdateDate>
-      <iFileSize>1997622</iFileSize>
-      <szMD5val>q1R+JtD5KY86kXPHCNJnow==</szMD5val>
+      <dtFileUpdateDate>2026-09-22T11:31:40.3210762+02:00</dtFileUpdateDate>
+      <iFileSize>2005606</iFileSize>
+      <szMD5val>+av4Q3YgI1bj/Xv/sGBgPQ==</szMD5val>
       <szProjectdataName>CGTable.dat</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History237" msdata:rowOrder="236" diffgr:hasChanges="inserted">
@@ -2837,11 +2837,11 @@
       <iProjectdataID>237</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
-      <dtUpdateDate>2026-08-27T10:35:06.5288583+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:40.376045+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.6093079+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-27T10:35:06.5288583+02:00</dtFileUpdateDate>
+      <dtFileUpdateDate>2026-09-22T11:31:40.376045+02:00</dtFileUpdateDate>
       <iFileSize>261265</iFileSize>
-      <szMD5val>a1YlHBmoPOWeg6nd1ofD4Q==</szMD5val>
+      <szMD5val>lfyrskkcsK3PYLin8vYaTw==</szMD5val>
       <szProjectdataName>DebugInformation2.dat</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History238" msdata:rowOrder="237" diffgr:hasChanges="inserted">
@@ -2849,11 +2849,11 @@
       <iProjectdataID>238</iProjectdataID>
       <szComment />
       <iEditor>3</iEditor>
-      <dtUpdateDate>2026-08-27T10:35:06.6757726+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:40.4769868+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.628309+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-27T10:35:06.6757726+02:00</dtFileUpdateDate>
-      <iFileSize>1463296</iFileSize>
-      <szMD5val>gtnWGmpJduDEe5xbXMZBOg==</szMD5val>
+      <dtFileUpdateDate>2026-09-22T11:31:40.4769868+02:00</dtFileUpdateDate>
+      <iFileSize>1434112</iFileSize>
+      <szMD5val>XSLOaHDpPwytlAE+6+qerA==</szMD5val>
       <szProjectdataName>ESCompiler.stg</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History239" msdata:rowOrder="238" diffgr:hasChanges="inserted">
@@ -2873,11 +2873,11 @@
       <iProjectdataID>240</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtUpdateDate>2026-08-27T10:35:07.2939131+02:00</dtUpdateDate>
+      <dtUpdateDate>2026-09-22T11:31:40.9331704+02:00</dtUpdateDate>
       <dtFileTimeStamp>2019-06-25T15:36:14.855322+02:00</dtFileTimeStamp>
-      <dtFileUpdateDate>2026-08-27T10:35:07.2939131+02:00</dtFileUpdateDate>
+      <dtFileUpdateDate>2026-09-22T11:31:40.9331704+02:00</dtFileUpdateDate>
       <iFileSize>225520</iFileSize>
-      <szMD5val>cVt7NrSaZL1D9geJp8fC5A==</szMD5val>
+      <szMD5val>caYQn/y1jZ4ogVbz/OkAFQ==</szMD5val>
       <szProjectdataName>Gppw2.gpj</szProjectdataName>
     </D_History>
     <D_History diffgr:id="D_History241" msdata:rowOrder="240" diffgr:hasChanges="inserted">
@@ -2993,7 +2993,7 @@
       <iProjectdataID>248</iProjectdataID>
       <szComment />
       <iEditor>0</iEditor>
-      <dtFileTimeStamp>2026-08-27T10:35:08.0454844+02:00</dtFileTimeStamp>
+      <dtFileTimeStamp>2026-09-22T11:31:41.5588136+02:00</dtFileTimeStamp>
       <szMD5val />
       <szProjectdataName>Project.gd2</szProjectdataName>
     </D_History>
